@@ -10,7 +10,7 @@
 
 **Data and Code Files:** [Download from Dropbox](https://www.dropbox.com/scl/fi/o23loistxjg9pzpus6wlx/replication_data_code.zip?rlkey=6f4deejlvzp9o89xt93nrj7n6&st=2uke4er9&dl=0)
 
-The download (~20 MB) includes:
+The download (~1.5 MB) includes:
 - `data/` - Analysis datasets (.dta files)
 - `code/` - Main analysis script (analysis.do)
 - `documentation/` - Table 2 comparison (PDF)
@@ -296,7 +296,7 @@ The file `table2_comparison.pdf` in the `documentation/` folder provides a side-
 ## Main Results to Expect
 
 ### Table 2: Voter Participation (First Stage, Reduced Form, OLS, 2SLS)
-- **First Stage F-statistic:** ~29-30 (strong instrument)
+- **First Stage F-statistic:** ~28-30 (strong instrument)
 - **2SLS Effect on Women's Turnout:** ~0.024 (2.4 percentage points per SD increase in radio exposure)
 - **2SLS Effect on Men's Turnout:** ~0.009 (not statistically significant)
 
