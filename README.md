@@ -8,7 +8,7 @@
 
 ## Download Replication Package
 
-**Data and Code Files:** [Download from Dropbox](https://www.dropbox.com/scl/fi/o23loistxjg9pzpus6wlx/replication_data_code.zip?rlkey=6f4deejlvzp9o89xt93nrj7n6&st=2uke4er9&dl=0)
+**Data and Code Files:** [Download from Dropbox](https://www.dropbox.com/scl/fi/o23loistxjg9pzpus6wlx/replication_package.zip?rlkey=6f4deejlvzp9o89xt93nrj7n6&st=rc68bvba&dl=0)
 
 The download (~1.5 MB) includes:
 - `data/` - Analysis datasets (.dta files)
